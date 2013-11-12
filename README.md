@@ -1,5 +1,5 @@
-Learn: Self-training, The Polypodes Way.
-========================================
+Learn: Polypodes Self-training
+==============================
 
 
 What will you learn today?
@@ -10,6 +10,8 @@ Learning resources for our beloved interns &amp; junior devs:
 * PHP "The Right Way"
 * Front-End development, including a "Js The Right Way"
 * GIT tuts
+* Mobile apps
+
 
 Fork it
 -------
