@@ -6,8 +6,12 @@ Front-End development
 --------------------
 
 * http://jstherightway.org
+ 
+CSS, the hard way
+------------------
 
-* http://bem.info/method/definitions: How to name things in your CSS
+* http://bem.info/method/definitions: How to name things in your CSS;
+* http://learn.shayhowe.com/html-css/ : Where beginners or advanced buddies can learn even more about CSS and HTML.
 
 
 Other lectures:
