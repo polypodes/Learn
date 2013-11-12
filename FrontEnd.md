@@ -6,21 +6,24 @@ Front-End development
 --------------------
 
 * http://jstherightway.org
+* http://fr.eloquentjavascript.net/contents.html For beginners
  
 CSS, the hard way
 ------------------
 
 * http://bem.info/method/definitions: How to name things in your CSS;
-* http://learn.shayhowe.com/html-css/ : Where beginners or advanced buddies can learn even more about CSS and HTML.
+* http://learn.shayhowe.com/html-css/ : Where beginners or advanced buddies can learn even more about CSS and HTML;
+* http://www.456bereastreet.com/archive/200601/css_3_selectors_explained/ CSS3 selectors explained;
 
 HTML, give me five
 --------------------
 * http://diveintohtml5.info/ Let’s dive;
-* http://www.html5doctor.com Good discussions about HTML5 and all even better The Diagnosis for each tag you can use.
+* http://www.html5doctor.com What about a bit of semantics ?
 
 Accessibility, RGAA stuff
 ------------------------
 * http://www.accesbilis.fr/memento-des-tests-du-rgaa-pour-les-redacteurs-et-contributeurs : Accessibility for webmasters (noobs)
+* http://unice.fr/access-key For a better understanding of accessibility issues. Some tutorials too.
 
 Type and fonts
 ---------------
