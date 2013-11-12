@@ -13,6 +13,10 @@ CSS, the hard way
 * http://bem.info/method/definitions: How to name things in your CSS;
 * http://learn.shayhowe.com/html-css/ : Where beginners or advanced buddies can learn even more about CSS and HTML.
 
+HTML, give me five
+--------------------
+* http://diveintohtml5.info/ Let’s dive;
+* http://www.html5doctor.com Good discussions about HTML5 and all even better The Diagnosis for each tag you can use.
 
 Accessibility, RGAA stuff
 ------------------------
