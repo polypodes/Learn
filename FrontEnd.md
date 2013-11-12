@@ -4,8 +4,10 @@ Front-End development
 
 "JS, the Right Way":
 --------------------
-http://jstherightway.org
 
+* http://jstherightway.org
+
+* http://bem.info/method/definitions: How to name things in your CSS
 
 
 Other lectures:
@@ -15,8 +17,4 @@ Other lectures:
 * https://developers.google.com/chrome-developer-tools/?hl=fr&csw=1
 * http://www.html5rocks.com/en
 
-Other websites to check:
-------------------------
-
-* http://net.tutsplus.com/
 
