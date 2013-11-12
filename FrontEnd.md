@@ -18,6 +18,9 @@ Accessibility, RGAA stuff
 ------------------------
 * http://www.accesbilis.fr/memento-des-tests-du-rgaa-pour-les-redacteurs-et-contributeurs : Accessibility for webmasters (noobs)
 
+Type and fonts
+---------------
+* http://typedia.com/learn/ Learn the basics of type design
 
 Other lectures:
 ---------------
