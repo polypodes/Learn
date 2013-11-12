@@ -1,5 +1,5 @@
-Learn
-=====
+Learn: Self-training, The Polypodes Way.
+========================================
 
 
 What will you learn today?
