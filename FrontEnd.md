@@ -31,6 +31,7 @@ Accessibility, RGAA stuff
 Type and fonts
 ---------------
 * http://typedia.com/learn/ Learn the basics of type design
+* http://webtypography.net/toc/ About good type settings
 
 Other lectures:
 ---------------
