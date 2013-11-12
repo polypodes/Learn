@@ -14,7 +14,8 @@ CSS, the hard way
 * http://bem.info/method/definitions: How to name things in your CSS;
 * http://learn.shayhowe.com/html-css/ : Where beginners or advanced buddies can learn even more about CSS and HTML;
 * http://www.456bereastreet.com/archive/200601/css_3_selectors_explained/ CSS3 selectors explained;
-* http://css-tricks.com/examples/ImageReplacement/ Image replacement techniques Musemum.
+* http://css-tricks.com/examples/ImageReplacement/ Image replacement techniques Musemum;
+* http://www.cs.unc.edu/~weiss/COMP110/CSStoJS.html CSS to JS properties
 
 HTML, give me five
 --------------------
