@@ -14,6 +14,11 @@ CSS, the hard way
 * http://learn.shayhowe.com/html-css/ : Where beginners or advanced buddies can learn even more about CSS and HTML.
 
 
+Accessibility, RGAA stuff
+------------------------
+* http://www.accesbilis.fr/memento-des-tests-du-rgaa-pour-les-redacteurs-et-contributeurs : Accessibility for webmasters (noobs)
+
+
 Other lectures:
 ---------------
 
