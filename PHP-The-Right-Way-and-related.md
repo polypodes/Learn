@@ -13,21 +13,21 @@ http://www.phptherightway.com
 
 In-depth related readings: 
 
-* PhpUnit: 4 first chapters of http://hpunit.de/manuel/
+* PhpUnit: 4 first chapters of http://phpunit.de/manuel/
 * Composer: The entire "getting started" chapter of http://getcomposer.org
 * Vagrant: The entire "getting started" chapter of http://vagrantup.com
 * Behat: The entire "Quick Intro to Behat" chapter: http://behat.org
-* PhpSPec: The entire "Spec BDD with phpspec" introduction chapter: http://phpspec.net
+* PhpSpec: The entire "Spec BDD with phpspec" introduction chapter: http://phpspec.net
 * PSR (http://www.php-fig.org/): The PSR-0 to 3 presentations
 
 Scope: 
 
 * list the concepts & tools you *already know well*
 * list the concepts & tools you *need* to learn
-* Being able to boot up a LAMP environment from a VagrantFile
-* Being able to use composer.json conf file
-* Being able to write tests
-* beinf able to understand & use PSR
+* being able to boot up a LAMP environment from a VagrantFile
+* being able to use composer.json conf file
+* being able to write tests
+* being able to understand & use PSR
 
 
 "The PHP Quality Assurance Toolchain"
