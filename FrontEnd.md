@@ -5,7 +5,7 @@ Front-End development
 "JS, the Right Way":
 --------------------
 
-* http://jstherightway.org
+* http://braziljs.github.io/js-the-right-way/
 * http://fr.eloquentjavascript.net/contents.html For beginners
  
 CSS, the hard way
