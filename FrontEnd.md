@@ -7,7 +7,8 @@ Front-End development
 
 * http://braziljs.github.io/js-the-right-way/
 * http://fr.eloquentjavascript.net/contents.html For beginners
- 
+
+
 CSS, the hard way
 ------------------
 
@@ -24,19 +25,26 @@ HTML, give me five
 --------------------
 * http://diveintohtml5.info/ Let’s dive;
 * http://www.html5doctor.com What about a bit of semantics ?
+
+
+Jade is not defined?
+--------------------
 * http://www.cssdeck.com/labs/learning-the-jade-templating-engine-syntax What about making a bit of Jade ? Interavtive - playable tutorial;
 * http://www.cssdeck.com/labs/jade-templating-tutorial-codecast-part-2 Jade Part 2
 * http://jade-lang.com/
+
 
 Accessibility, RGAA stuff
 ------------------------
 * http://www.accesbilis.fr/memento-des-tests-du-rgaa-pour-les-redacteurs-et-contributeurs : Accessibility for webmasters (noobs)
 * http://unice.fr/access-key For a better understanding of accessibility issues. Some tutorials too.
 
+
 Type and fonts
 ---------------
 * http://typedia.com/learn/ Learn the basics of type design
 * http://webtypography.net/toc/ About good type settings
+
 
 Other lectures:
 ---------------
