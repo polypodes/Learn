@@ -26,6 +26,7 @@ HTML, give me five
 * http://www.html5doctor.com What about a bit of semantics ?
 * http://www.cssdeck.com/labs/learning-the-jade-templating-engine-syntax What about making a bit of Jade ? Interavtive - playable tutorial;
 * http://www.cssdeck.com/labs/jade-templating-tutorial-codecast-part-2 Jade Part 2
+* http://jade-lang.com/
 
 Accessibility, RGAA stuff
 ------------------------
