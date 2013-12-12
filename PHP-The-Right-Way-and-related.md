@@ -37,9 +37,14 @@ http://phpqatools.org
 
 Discover each tool listed.
 
-Scope : 
+Scope : Being able to understand the interest of each of them & choose the right tool
 
-* Being able to understand the interest of each of them & choose the right tool
+
+"PHP Underestimated Awesomeness"
+--------------------------------
+
+* Discover [a curated list of amazingly awesome PHP libraries](https://github.com/ziadoz/awesome-php), resources and shiny things.
+
 
 
 
