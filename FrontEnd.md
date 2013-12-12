@@ -46,6 +46,14 @@ Type and fonts
 * http://webtypography.net/toc/ About good type settings
 
 
+Forms Are Traumatic
+-------------------
+
+So let's fix it.
+
+* [4 Ways To Make HTML Forms Enjoyable](http://www.kendoui.com/blogs/teamblog/posts/13-11-28/4-ways-to-make-html-forms-enjoyable.aspx)
+
+
 Other lectures:
 ---------------
 
