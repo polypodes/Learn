@@ -2,6 +2,11 @@ Front-End development
 =====================
 
 
+"Web As A Plateform":
+---------------------
+
+* http://docs.webplatform.org/
+
 "JS, the Right Way":
 --------------------
 
