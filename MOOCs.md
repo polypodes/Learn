@@ -8,6 +8,11 @@ MOOCs : Massive open online course
 * http://www.france-universite-numerique.fr/
 * http://mooc-francophone.com
 
+All langs
+---------
+
+* https://www.coursera.org
+
 * iOS Apps
 ----------
 
