@@ -4,14 +4,11 @@ PHP
 Marvelous language from the 20th century.
 
 
-"PHP The Right Way"
--------------------
+## "PHP The Right Way"
 
-http://www.phptherightway.com
+http://www.phptherightway.com => Read the whole page.
 
-=> Read the whole page.
-
-In-depth related readings: 
+### In-depth related readings: 
 
 * PhpUnit: 4 first chapters of http://phpunit.de/manuel/
 * Composer: The entire "getting started" chapter of http://getcomposer.org
@@ -20,7 +17,7 @@ In-depth related readings:
 * PhpSpec: The entire "Spec BDD with phpspec" introduction chapter: http://phpspec.net
 * PSR (http://www.php-fig.org/): The PSR-0 to 3 presentations
 
-Scope: 
+### Scope: 
 
 * list the concepts & tools you *already know well*
 * list the concepts & tools you *need* to learn
@@ -30,20 +27,21 @@ Scope:
 * being able to understand & use PSR
 
 
-"The PHP Quality Assurance Toolchain"
--------------------------------------
+## "The PHP Quality Assurance Toolchain"
 
-http://phpqatools.org
+
+=> http://phpqatools.org
 
 Discover each tool listed.
 
-Scope : Being able to understand the interest of each of them & choose the right tool
+### Scope
+
+Being able to understand the interest of each of them & choose the right tool
 
 
-"PHP Underestimated Awesomeness"
---------------------------------
+## "PHP Underestimated Awesomeness"
 
-* Discover [a curated list of amazingly awesome PHP libraries](https://github.com/ziadoz/awesome-php), resources and shiny things.
+A [curated list of amazingly awesome PHP libraries, resources and shiny things](https://github.com/ziadoz/awesome-php),  on Github.
 
 
 
