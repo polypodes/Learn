@@ -17,7 +17,7 @@ Front-End development
 
 CSS, the hard way
 ------------------
-
+* You’re a french noob ? (we all are…). Learn CSS basics in a step by step course : http://fr.learnlayout.com/
 * http://bem.info/method/definitions: How to name things in your CSS;
 * http://learn.shayhowe.com/html-css/ : Where beginners or advanced buddies can learn even more about CSS and HTML;
 * http://www.456bereastreet.com/archive/200601/css_3_selectors_explained/ CSS3 selectors explained;
