@@ -13,6 +13,7 @@ Front-End development
 * http://braziljs.github.io/js-the-right-way/
 * http://fr.eloquentjavascript.net/contents.html For beginners
 * A bit of Mustache. A really extra super simple templating library. Here is a 10 minutes tutorial to get it up : http://coenraets.org/blog/2011/12/tutorial-html-templates-with-mustache-js/
+* Huge collection of free books about JS : http://jsbooks.revolunet.com/
 
 
 CSS, the hard way
