@@ -7,7 +7,7 @@ What will you learn today?
 
 Learning resources for our beloved interns / junior / senior devs: 
 
-Font-end, back-end, etc: this is our own [web literacy](https://wiki.mozilla.org/Webmaker/WebLiteracyMap) review.
+Front-end, back-end, persistence, UX, etc: this is our own [web literacy](https://wiki.mozilla.org/Webmaker/WebLiteracyMap) review.
 
 Fork it
 -------
