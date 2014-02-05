@@ -60,6 +60,10 @@ So let's fix it.
 
 * [4 Ways To Make HTML Forms Enjoyable](http://www.kendoui.com/blogs/teamblog/posts/13-11-28/4-ways-to-make-html-forms-enjoyable.aspx)
 
+## SVG should be cool
+
+* http://flippinawesome.org/2014/02/03/learning-svg/
+
 
 Other lectures:
 ---------------
