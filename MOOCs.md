@@ -12,6 +12,7 @@ All langs
 ---------
 
 * https://www.coursera.org
+* http://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience
 
 * iOS Apps
 ----------
