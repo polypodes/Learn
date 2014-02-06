@@ -7,14 +7,6 @@ Front-End development
 
 * http://docs.webplatform.org/
 
-"JS, the Right Way":
---------------------
-
-* http://braziljs.github.io/js-the-right-way/
-* http://fr.eloquentjavascript.net/contents.html For beginners
-* A bit of Mustache. A really extra super simple templating library. Here is a 10 minutes tutorial to get it up : http://coenraets.org/blog/2011/12/tutorial-html-templates-with-mustache-js/
-* Huge collection of free books about JS : http://jsbooks.revolunet.com/
-
 
 CSS, the hard way
 ------------------
@@ -68,7 +60,6 @@ So let's fix it.
 Other lectures:
 ---------------
 
-* http://javascriptissexy.com/how-to-learn-javascript-properly
 * https://developers.google.com/chrome-developer-tools/?hl=fr&csw=1
 * http://www.html5rocks.com/en
 
