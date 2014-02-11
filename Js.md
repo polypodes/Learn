@@ -2,11 +2,13 @@
 
 ## Foundations of "JS, the Right Way"
 
+* A reintroduction to javaScript : https://developer.mozilla.org/fr/docs/Web/JavaScript/Une_r%C3%A9introduction_%C3%A0_JavaScript?redirectlocale=fr&redirectslug=Une_r%C3%A9introduction_%C3%A0_JavaScript — Article en Français :)
 * http://javascriptissexy.com/how-to-learn-javascript-properly
 * http://braziljs.github.io/js-the-right-way/
 * http://fr.eloquentjavascript.net/contents.html For beginners
 * A bit of Mustache. A really extra super simple templating library. Here is a 10 minutes tutorial to get it up : http://coenraets.org/blog/2011/12/tutorial-html-templates-with-mustache-js/
 * Huge collection of free books about JS : http://jsbooks.revolunet.com
+
 
 ## NodeJs
 
