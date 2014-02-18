@@ -57,6 +57,13 @@ So let's fix it.
 * http://flippinawesome.org/2014/02/03/learning-svg/
 
 
+Testing the front
+-----------------
+
+* http://casperjs.org / http://slimerjs.org / http://triflejs.org
+* https://github.com/Huddle/PhantomCSS
+
+
 Other lectures:
 ---------------
 
