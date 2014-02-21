@@ -29,7 +29,6 @@
 
 ## Tooling
 
-* 
 - [Yeoman](http://yeoman.io) - Project and modules generator
 - [Gulp](http://gulpjs.com) - Task runner/build system
 - [Grunt](http://gruntjs.com) - Task runner/build system
