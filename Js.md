@@ -14,6 +14,7 @@
 - [JavaScript garden](http://bonsaiden.github.com/JavaScript-Garden/)
 - [JavaScript Patterns Book](http://oreilly.com/catalog/9780596806767)
 - [JavaScript: The Good Parts Book](http://oreilly.com/catalog/9780596517748/)
+- [Pour enfin comprendre Javascript](http://www.miximum.fr/pour-enfin-comprendre-javascript.html)
 * [A Huge collection of free books about JS](http://jsbooks.revolunet.com)
 
 ## Promises
