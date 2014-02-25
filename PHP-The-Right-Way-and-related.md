@@ -3,19 +3,22 @@ PHP
 
 Marvelous language from the 20th century.
 
+## [(re-)Discovering PHP](http://edu.williamdurand.fr/php-slides/index.html)
 
-## "PHP The Right Way"
+213 slides of PHP overview
 
-http://www.phptherightway.com => Read the whole page.
+## ["PHP The Right Way"](http://www.phptherightway.com) 
+
+Please read the whole page.
 
 ### In-depth related readings: 
 
-* PhpUnit: 4 first chapters of http://phpunit.de/manuel/
-* Composer: The entire "getting started" chapter of http://getcomposer.org
-* Vagrant: The entire "getting started" chapter of http://vagrantup.com
-* Behat: The entire "Quick Intro to Behat" chapter: http://behat.org
-* PhpSpec: The entire "Spec BDD with phpspec" introduction chapter: http://phpspec.net
-* PSR (http://www.php-fig.org/): The PSR-0 to 3 presentations
+* [PhpUnit manual](http://phpunit.de/manuel): Read the 4 first chapters
+* [Composer](http://getcomposer.org): The entire "getting started" chapter
+* [Vagrant](http://vagrantup.com): The entire "getting started" chapter, beacuse you don't want to use MAMP nor WAMP
+* [Behat](http://behat.org): The entire "Quick Intro to Behat" chapter
+* [PhpSpec](http://phpspec.net): The entire "Spec BDD with phpspec" introduction chapter
+* [PHP Standard Recommendations in the PHP Framework Interop Group documentation](http://www.php-fig.org/): The PSR-0 to 4 presentations
 
 ### Scope: 
 
@@ -27,10 +30,7 @@ http://www.phptherightway.com => Read the whole page.
 * being able to understand & use PSR
 
 
-## "The PHP Quality Assurance Toolchain"
-
-
-=> http://phpqatools.org
+## [The PHP Quality Assurance Toolchain](http://phpqatools.org)
 
 Discover each tool listed.
 
