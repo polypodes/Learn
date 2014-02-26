@@ -17,6 +17,10 @@
 - [Pour enfin comprendre Javascript](http://www.miximum.fr/pour-enfin-comprendre-javascript.html)
 * [A Huge collection of free books about JS](http://jsbooks.revolunet.com)
 
+## Organizing your Js code (requireJs, etc.)
+
+- [Understanding RequireJS for Effective JavaScript Module Loading](http://www.sitepoint.com/understanding-requirejs-for-effective-javascript-module-loading/?utm_content=buffer39326&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
 ## Promises
 
 - [JavaScript Promises](http://www.html5rocks.com/en/tutorials/es6/promises/) 
