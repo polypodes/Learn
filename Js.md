@@ -28,9 +28,10 @@
 
 ## NodeJs
 
-* http://nodejs.org
-* http://nodeschool.io
-* [sergtitov / NodeJS-Learning](https://github.com/sergtitov/NodeJS-Learning/blob/master/README.md)
+- http://nodejs.org
+- http://nodeschool.io
+- [sergtitov / NodeJS-Learning](https://github.com/sergtitov/NodeJS-Learning/blob/master/README.md)
+- [how to write node programs with streams](https://github.com/substack/stream-handbook)
 
 ## Tooling
 
@@ -39,10 +40,10 @@
 - [Grunt](http://gruntjs.com) - Task runner/build system
 - [Premiers pas avec Grunt](http://putaindecode.fr/posts/js/premiers-pas-avec-grunt
 
-## BDD
+## Js BDD
 
-* [CucumberJs](http://flippinawesome.org/2014/01/27/bdd-in-javascript-with-cucumberjs/?utm_source=javascriptweekly&utm_medium=email) ([Github](https://github.com/cucumber/cucumber-js))
+- [CucumberJs](http://flippinawesome.org/2014/01/27/bdd-in-javascript-with-cucumberjs/?utm_source=javascriptweekly&utm_medium=email) ([Github](https://github.com/cucumber/cucumber-js))
 
 ## Js Templating
 
-* [A bit of Mustache](http://coenraets.org/blog/2011/12/tutorial-html-templates-with-mustache-js). A really extra super simple templating library. (10 minutes tutorial)
+- [A bit of Mustache](http://coenraets.org/blog/2011/12/tutorial-html-templates-with-mustache-js). A really extra super simple templating library. (10 minutes tutorial)
