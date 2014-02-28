@@ -7,12 +7,11 @@
 - [Eloquent JavaScript](http://eloquentjavascript.net/) for beginners
 - [A reintroduction to javaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript/Une_r%C3%A9introduction_%C3%A0_JavaScript)
 - [How to Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly)
-- [Essential JavaScript Design Patterns For Beginners](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
+k/)
 - [Advanced JavaScript Fundamentals](http://blog.buymeasoda.com/advanced-javascript-fundamentals/)
 - [Understand JavaScript Closures With Ease](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
 - [JS The Right Way](http://braziljs.github.io/js-the-right-way/)
 - [JavaScript garden](http://bonsaiden.github.com/JavaScript-Garden/)
-- [JavaScript Patterns Book](http://oreilly.com/catalog/9780596806767)
 - [JavaScript: The Good Parts Book](http://oreilly.com/catalog/9780596517748/)
 - [Pour enfin comprendre Javascript](http://www.miximum.fr/pour-enfin-comprendre-javascript.html)
 * [A Huge collection of free books about JS](http://jsbooks.revolunet.com)
@@ -26,6 +25,12 @@
 - [JavaScript Promises](http://www.html5rocks.com/en/tutorials/es6/promises/) 
 - http://www.promisejs.org
 
+
+## Js Design patterns
+- [JavaScript design patterns](https://coderwall.com/p/w2rctq) #blogPost
+- [Essential JavaScript Design Patterns For Beginners](http://www.addyosmani.com/resources/essentialjsdesignpatterns)
+- [JavaScript Patterns Book](http://oreilly.com/catalog/9780596806767)
+ 
 ## NodeJs
 
 - http://nodejs.org
