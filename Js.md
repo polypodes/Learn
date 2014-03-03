@@ -23,7 +23,8 @@ k/)
 ## Promises
 
 - [JavaScript Promises](http://www.html5rocks.com/en/tutorials/es6/promises/) 
-- http://www.promisejs.org
+- [PromiseJs](http://www.promisejs.org)
+- [Promise: Anti-Patterns](http://taoofcode.net/promise-anti-patterns/)
 
 
 ## Js Design patterns
