@@ -43,6 +43,10 @@ Being able to understand the interest of each of them & choose the right tool
 
 A [curated list of amazingly awesome PHP libraries, resources and shiny things](https://github.com/ziadoz/awesome-php),  on Github.
 
+## Debug PHP
+
+- [Debugging with Xdebug and Sublime Text 3](http://www.sitepoint.com/debugging-xdebug-sublime-text-3)
+
 
 
 
