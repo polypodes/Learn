@@ -7,6 +7,7 @@
 ### Behat:
 
 - [Behat](http://docs.behat.org/) (en anglais)
+- [Behat : une introduction](http://blog.lepine.pro/php/behat-jour-1-comment-tester-son-produit-scrum) (en français)
 - [Behat Symfony2 Extension](http://extensions.behat.org/symfony2/index.html)
 - [First steps with Behat](https://www.theodo.fr/blog/2013/04/first-steps-with-behat/)
 - [Procédure d’installation et configuration de Behat en français pour Symfony 2](http://blog.prestaconcept.net/2013/02/11/procedure-dinstallation-et-configuration-de-behat-en-francais-pour-symfony-2.html)
