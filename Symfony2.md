@@ -10,6 +10,7 @@
 - [Behat Symfony2 Extension](http://extensions.behat.org/symfony2/index.html)
 - [First steps with Behat](https://www.theodo.fr/blog/2013/04/first-steps-with-behat/)
 - [Procédure d’installation et configuration de Behat en français pour Symfony 2](http://blog.prestaconcept.net/2013/02/11/procedure-dinstallation-et-configuration-de-behat-en-francais-pour-symfony-2.html)
+- [Behat meta-steps](http://knplabs.com/blog/2011/12/15/behat-like-a-boss-meta-steps/)
 
 
 ### Vagrant for Sf2
