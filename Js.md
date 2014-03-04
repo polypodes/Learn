@@ -46,6 +46,8 @@ k/)
 - [Gulp](http://gulpjs.com) - Task runner/build system
 - [Grunt](http://gruntjs.com) - Task runner/build system
 - [Premiers pas avec Grunt](http://putaindecode.fr/posts/js/premiers-pas-avec-grunt
+- Coding style: [Google Javascript style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+
 
 ## Js BDD
 
