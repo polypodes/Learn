@@ -21,6 +21,7 @@
 - [Symfony CMS - day 05 - Sonata Page Installation](http://pygmeeweb.com/2013/10/13/cms-day05-sonata-page-installation.html)
 - [Installation de SonataAdminBundle](http://jobeet.thuau.fr/le-paquet-admin)
 - [Administrer ses entités avec Sonata Admin Bundle](http://www.valentin-rebierre.ekow.o2switch.net/administrer-ses-entites-avec-sonata-admin-bundle/)
+- [Example of a block in a Page-based bundle](https://github.com/STIWL/STIWLEschoolThirdSonataBlockBundle)
 
 ## Doctrine
 
