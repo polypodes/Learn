@@ -16,7 +16,7 @@
 
 ## Sonata Bundles
 
-_ [Sonata Page documentation](http://sonata-project.org/bundles/page/master/doc/index.html)
+- [Sonata Page documentation](http://sonata-project.org/bundles/page/master/doc/index.html)
 - [Installation du CMS Sonata Page](http://www.coolcoyote.net/php-mysql/installation-du-cms-sonata-page)
 - [Symfony CMS - day 05 - Sonata Page Installation](http://pygmeeweb.com/2013/10/13/cms-day05-sonata-page-installation.html)
 - [Installation de SonataAdminBundle](http://jobeet.thuau.fr/le-paquet-admin)
