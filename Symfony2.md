@@ -22,6 +22,7 @@
 - [Installation de SonataAdminBundle](http://jobeet.thuau.fr/le-paquet-admin)
 - [Administrer ses entités avec Sonata Admin Bundle](http://www.valentin-rebierre.ekow.o2switch.net/administrer-ses-entites-avec-sonata-admin-bundle/)
 - [Example of a block in a Page-based bundle](https://github.com/STIWL/STIWLEschoolThirdSonataBlockBundle)
+- [Create custom elements in the dashbord Sonata Admin](http://stackoverflow.com/a/15167450/490589)
 
 ## Doctrine
 
