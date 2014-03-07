@@ -7,3 +7,7 @@ GIT
 - [Understanding GIT](http://www.queness.com/post/16139/understanding-git) (huge collection of GIT ressources)
 
 Then create a [Github](http://github.com) or/and a [Bitbucket](https://bitbucket.org) account
+
+## Git lessons
+
+- [Rebase, interactively](http://phuu.net/2014/02/24/rebase-you-interactively-for-great-good.html)
