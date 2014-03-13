@@ -40,6 +40,7 @@
 ## Type and fonts
 
 - http://typedia.com/learn/ Learn the basics of type design
+- Don’t miss : http://www.thinkingwithtype.com/
 - http://webtypography.net/toc/ About good type settings
 
 
