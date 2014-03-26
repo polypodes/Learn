@@ -5,7 +5,11 @@ Marvelous language from the 20th century.
 
 ## [(re-)Discovering PHP](http://edu.williamdurand.fr/php-slides/index.html)
 
-213 slides of PHP overview
+a great PHP overview
+
+## [PHP Practicals](http://edu.williamdurand.fr/) (TPs)
+
+Do your homework.
 
 ## ["PHP The Right Way"](http://www.phptherightway.com) 
 
