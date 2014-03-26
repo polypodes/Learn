@@ -14,7 +14,7 @@ Please read the whole page.
 ### In-depth related readings: 
 
 * [PhpUnit manual](http://phpunit.de/manuel): Read the 4 first chapters
-* [Composer](http://getcomposer.org): The entire "getting started" chapter
+* [Composer](http://getcomposer.org): The entire "getting started" chapter. Check this [cheat sheet](http://composer.json.jolicode.com/)
 * [Vagrant](http://vagrantup.com): The entire "getting started" chapter, beacuse you don't want to use MAMP nor WAMP
 * [Behat](http://behat.org): The entire "Quick Intro to Behat" chapter
 * [PhpSpec](http://phpspec.net): The entire "Spec BDD with phpspec" introduction chapter
