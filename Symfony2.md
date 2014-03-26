@@ -39,3 +39,4 @@
 ## Other learning material
 
 - [Symfony2 cheat sheet](http://www.symfony2cheatsheet.com)
+- [Les Bundles que vous allez regretter de ne pas avoir connu plus tôt](http://jolicode.github.io/best-bundle-conf)
