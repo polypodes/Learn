@@ -25,6 +25,8 @@ k/)
 - [JavaScript Promises](http://www.html5rocks.com/en/tutorials/es6/promises/) 
 - [PromiseJs](http://www.promisejs.org)
 - [Promise: Anti-Patterns](http://taoofcode.net/promise-anti-patterns/)
+- [Promises explain with Ken & Barbie](http://garciaf.github.io/article/presentation/promise.html#/)
+- [Les Promesses en Javascript](http://naholyr.fr/2014/03/promises/)
 
 
 ## Js Design patterns
