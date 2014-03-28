@@ -28,6 +28,7 @@
 
 - http://www.polymer-project.org/ library & polyfills (IE 10+..) 
 - http://www.polymer-project.org/docs/start/usingelements.html Getting started
+- http://customelements.io/ A collection of web-component ready to use !
 
 ## Jade is not defined?
 
