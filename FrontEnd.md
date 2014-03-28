@@ -24,6 +24,11 @@
 - http://www.html5doctor.com What about a bit of semantics ?
 
 
+## Web components
+
+- http://www.polymer-project.org/ library & polyfills (IE 10+..) 
+- http://www.polymer-project.org/docs/start/usingelements.html Getting started
+
 ## Jade is not defined?
 
 - http://www.cssdeck.com/labs/learning-the-jade-templating-engine-syntax What about making a bit of Jade ? Interavtive - playable tutorial;
