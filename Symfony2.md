@@ -27,6 +27,7 @@
 ## Doctrine
 
 - [Persisting Value Objects in Doctrine](http://rosstuck.com/persisting-value-objects-in-doctrine/)
+- [Les relations Many-to-Many Sans Peine](http://www.prowebdev.us/2012/07/symfnoy2-many-to-many-relation-with.html)
 
 ## Vagrant for Sf2
 
