@@ -2,6 +2,7 @@
 
 ## Foundations of "JS, the Right Way"
 
+_ [GitBook.io's Javascript introduction](http://gitbookio.github.io/javascript/README.html)
 - [Codecademy - JS](http://www.codecademy.com/tracks/javascript) - Good for practicing and learning syntax.
 - [Crockford's videos](http://yuiblog.com/crockford/)
 - [Eloquent JavaScript](http://eloquentjavascript.net/) for beginners
