@@ -60,3 +60,8 @@ k/)
 ## Js Templating
 
 - [A bit of Mustache](http://coenraets.org/blog/2011/12/tutorial-html-templates-with-mustache-js). A really extra super simple templating library. (10 minutes tutorial)
+
+
+## Js templating and more
+
+- [Ractive](http://learn.ractivejs.org/hello-world/1/) : Fun, 60 seconds to get running.
