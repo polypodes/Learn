@@ -6,9 +6,10 @@ Please keep to the order of the instructions ; each step is to be studied entire
 
 ### GIT
 
-1. Roger Dudler's ["simple guide for getting started with git"](http://rogerdudler.github.com/git-guide). No deep shit.
-2. [Gitimmersion. Best GIT tut ever - 50 steps](http://gitimmersion.com) (entire course)
-3. [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model) (well-known Git workflow)
+1. [Command-Line crash course](http://cli.learncodethehardway.org/book/)
+2. Roger Dudler's ["simple guide for getting started with git"](http://rogerdudler.github.com/git-guide). No deep shit.
+3. [Gitimmersion. Best GIT tut ever - 50 steps](http://gitimmersion.com) (entire course)
+4. [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model) (well-known Git workflow)
 
 ### PHP
 
@@ -27,7 +28,6 @@ Please keep to the order of the instructions ; each step is to be studied entire
 1. [PhpUnit manual](http://phpunit.de/manuel): Read the 4 first chapters
 2. [Composer](http://getcomposer.org): The entire "getting started" chapter. Check this [cheat sheet](http://composer.json.jolicode.com/)
 3. [Vagrant](http://vagrantup.com): The entire "getting started" chapter, because you don't want to use MAMP nor WAMP
-4. [Command-Line crash course](http://cli.learncodethehardway.org/book/)
 
 ## Step 3 : Symfony, then Sonata
 
