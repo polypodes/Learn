@@ -9,6 +9,13 @@ Learning resources for our beloved interns / junior / senior devs:
 
 Front-end, back-end, persistence, UX, etc: this is our own [web literacy](https://wiki.mozilla.org/Webmaker/WebLiteracyMap) review.
 
+
+Intership Program
+-----------------
+
+[new] A [dedicated Learning Program](Internship.md) is now proposed to internship candidates
+
+
 Fork it
 -------
 
