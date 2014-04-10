@@ -1,6 +1,6 @@
 # Backend-Developer Intership @ Les Polypodes
 
-Please follow the order
+Please keep to the order of the instructions ; each step is to be studied entirely. 
 
 ## Step 1 : Basis
 
@@ -12,14 +12,14 @@ Please follow the order
 
 ### PHP
 
-1. [re-discovering PHP](http://edu.williamdurand.fr/php-slides/index.html)
+1. ["Re-discovering PHP"](http://edu.williamdurand.fr/php-slides/index.html)
 2. ["PHP The Right Way"](http://www.phptherightway.com) 
 
 
 ### Js (optional)
 
-1. [re-discover Javascript](http://gitbookio.github.io/javascript) or [Une réintroduction à JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript/Une_r%C3%A9introduction_%C3%A0_JavaScript#Introduction-)
-2. [Js The-Right-Way](http://jstherightway.org/)
+1. ["Re-discover Javascript"](http://gitbookio.github.io/javascript) or [Une réintroduction à JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript/Une_r%C3%A9introduction_%C3%A0_JavaScript#Introduction-)
+2. ["Js The-Right-Way"](http://jstherightway.org/)
 
 
 ## Step 2 : Tooling
