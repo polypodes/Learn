@@ -17,21 +17,21 @@ Please read the whole page.
 
 ### In-depth related readings: 
 
-* [PhpUnit manual](http://phpunit.de/manuel): Read the 4 first chapters
-* [Composer](http://getcomposer.org): The entire "getting started" chapter. Check this [cheat sheet](http://composer.json.jolicode.com/)
-* [Vagrant](http://vagrantup.com): The entire "getting started" chapter, beacuse you don't want to use MAMP nor WAMP
-* [Behat](http://behat.org): The entire "Quick Intro to Behat" chapter
-* [PhpSpec](http://phpspec.net): The entire "Spec BDD with phpspec" introduction chapter
-* [PHP Standard Recommendations in the PHP Framework Interop Group documentation](http://www.php-fig.org/): The PSR-0 to 4 presentations
+- [PhpUnit manual](http://phpunit.de/manuel): Read the 4 first chapters
+- [Composer](http://getcomposer.org): The entire "getting started" chapter. Check this [cheat sheet](http://composer.json.jolicode.com/)
+- [Vagrant](http://vagrantup.com): The entire "getting started" chapter, because you don't want to use MAMP nor WAMP
+- [Behat](http://behat.org): The entire "Quick Intro to Behat" chapter
+- [PhpSpec](http://phpspec.net): The entire "Spec BDD with phpspec" introduction chapter
+- [PHP Standard Recommendations in the PHP Framework Interop Group documentation](http://www.php-fig.org/): The PSR-0 to 4 presentations
 
 ### Scope: 
 
-* list the concepts & tools you *already know well*
-* list the concepts & tools you *need* to learn
-* being able to boot up a LAMP environment from a VagrantFile
-* being able to use composer.json conf file
-* being able to write tests
-* being able to understand & use PSR
+- list the concepts & tools you *already know well*
+- list the concepts & tools you *need* to learn
+- being able to boot up a LAMP environment from a VagrantFile
+- being able to use composer.json conf file
+- being able to write tests
+- being able to understand & use PSR
 
 
 ## [The PHP Quality Assurance Toolchain](http://phpqatools.org)
