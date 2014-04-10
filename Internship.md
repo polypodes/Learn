@@ -14,8 +14,11 @@ Please keep to the order of the instructions ; each step is to be studied entire
 ### PHP
 
 1. ["Re-discovering PHP"](http://edu.williamdurand.fr/php-slides/index.html)
-2. ["PHP The Right Way"](http://www.phptherightway.com) 
+2. ["PHP The Right Way"](http://www.phptherightway.com)
 
+### SQL
+
+1. [Sql Zoo](http://sqlzoo.net/wiki/Main_Page)
 
 ### Js (optional)
 
