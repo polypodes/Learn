@@ -11,7 +11,7 @@
 k/)
 - [Advanced JavaScript Fundamentals](http://blog.buymeasoda.com/advanced-javascript-fundamentals/)
 - [Understand JavaScript Closures With Ease](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
-- [JS The Right Way](http://braziljs.github.io/js-the-right-way/)
+- [JS The Right Way](http://jstherightway.org//)
 - [JavaScript garden](http://bonsaiden.github.com/JavaScript-Garden/)
 - [JavaScript: The Good Parts Book](http://oreilly.com/catalog/9780596517748/)
 - [Pour enfin comprendre Javascript](http://www.miximum.fr/pour-enfin-comprendre-javascript.html)
