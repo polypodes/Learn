@@ -52,6 +52,9 @@ k/)
 - [Premiers pas avec Grunt](http://putaindecode.fr/posts/js/premiers-pas-avec-grunt
 - Coding style: [Google Javascript style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 
+## Interfaces
+
+- [React js: learn the basics the right way](http://webdesignporto.com/react-js-learn-the-basics-the-right-way-knowledge-after-real-world-project-experience/)
 
 ## Js BDD
 
