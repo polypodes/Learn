@@ -51,7 +51,9 @@ A [curated list of amazingly awesome PHP libraries, resources and shiny things](
 
 - [Debugging with Xdebug and Sublime Text 3](http://www.sitepoint.com/debugging-xdebug-sublime-text-3)
 
+## The wrong way
 
+- [phpsadness.com](http://www.phpsadness.com/)
 
 
 
