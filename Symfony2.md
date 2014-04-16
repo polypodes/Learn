@@ -1,5 +1,7 @@
 # Symfony2
 
+- [Symfony2 with modern front-end dev](http://fr.slideshare.net/weaverryan/cool-like-frontend-developer-grunt-requirejs-bower-and-other-tools-29177248) with [demo code](https://github.com/knpuniversity/symfonycon-frontend): An example Symfony2-based project for "Cool like Frontend Developer: Grunt, RequireJS, Bower and other Tools" presentation
+
 ## Testing
 
 - [Functional Testing in Symfony2](http://www.sitepoint.com/functional-testing-symfony2/)
