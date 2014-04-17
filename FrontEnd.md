@@ -20,15 +20,15 @@
 
 ## HTML, give me five
 
-- http://diveintohtml5.info/ Let’s dive;
-- http://www.html5doctor.com What about a bit of semantics ?
+- [diveintohtml5](http://diveintohtml5.info) Let’s dive;
+- [html5doctor](http://www.html5doctor.com) What about a bit of semantics ?
+- [HTML5 crash course](http://romain-menard.fr/cours/html5/01)
 
 
 ## Web components
 
-- http://www.polymer-project.org/ library & polyfills (IE 10+..) 
-- http://www.polymer-project.org/docs/start/usingelements.html Getting started
-- http://customelements.io/ A collection of web-component ready to use !
+- [polymer-project](http://www.polymer-project.org) library & polyfills (IE 10+..) : [Getting started](http://www.polymer-project.org/docs/start/usingelements.html )
+- [customelements.io](http://customelements.io) A collection of web-component ready to use !
 
 ## Jade is not defined?
 
