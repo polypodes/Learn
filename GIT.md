@@ -11,7 +11,7 @@ Then create a [Github](http://github.com) or/and a [Bitbucket](https://bitbucket
 
 ## Now git like a pro
 
-- [https://github.com/tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet): A collection of cool hidden and not so hidden features of Git and GitHub
+- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet): A collection of cool hidden and not so hidden features of Git and GitHub
 
 ## Git lessons
 
