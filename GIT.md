@@ -9,6 +9,10 @@ GIT
 
 Then create a [Github](http://github.com) or/and a [Bitbucket](https://bitbucket.org) account
 
+## Now git like a pro
+
+- [https://github.com/tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet): A collection of cool hidden and not so hidden features of Git and GitHub
+
 ## Git lessons
 
 - [Rebase, interactively](http://phuu.net/2014/02/24/rebase-you-interactively-for-great-good.html)
