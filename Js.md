@@ -17,6 +17,12 @@ k/)
 - [Pour enfin comprendre Javascript](http://www.miximum.fr/pour-enfin-comprendre-javascript.html)
 * [A Huge collection of free books about JS](http://jsbooks.revolunet.com)
 
+
+## Digest about Js
+
+- [Les fonctions en JS](http://www.thedarksideofthewebblog.com/menu/javascript/les-fonctions-en-js/)
+- [la "POO" en Js](http://www.thedarksideofthewebblog.com/this-is-it-le-contexte-en-javascript/)
+
 ## Organizing your Js code (injeritance, requireJs, etc.)
 
 - [Understanding RequireJS for Effective JavaScript Module Loading](http://www.sitepoint.com/understanding-requirejs-for-effective-javascript-module-loading/?utm_content=buffer39326&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
@@ -35,6 +41,7 @@ k/)
 - [JavaScript design patterns](https://coderwall.com/p/w2rctq) #blogPost
 - [Essential JavaScript Design Patterns For Beginners](http://www.addyosmani.com/resources/essentialjsdesignpatterns)
 - [JavaScript Patterns Book](http://oreilly.com/catalog/9780596806767)
+- [Les patterns en Js](http://www.thedarksideofthewebblog.com/menu/javascript/les-patterns-de-js/)
  
 ## NodeJs
 
