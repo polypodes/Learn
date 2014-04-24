@@ -1,6 +1,9 @@
 Learn: Polypodes Self-training
 ==============================
 
+> _"Determining where to invest your time and energy for growth as a developer is the single most important thought process that you will undertake."_
+
+(_source_: [10 Skills Developers Should Invest In for 2014](https://medium.com/web-design-and-development/64eb28781489))
 
 What will you learn today?
 --------------------------
