@@ -6,3 +6,7 @@
 ## A file containing many ressources in french
 
 * https://github.com/vhf/free-programming-books/blob/master/free-programming-books-fr.md#git
+* 
+## Writing good code
+
+- [From STUPID to SOLID Code](http://williamdurand.fr/2013/07/30/from-stupid-to-solid-code)
