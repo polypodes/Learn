@@ -42,7 +42,6 @@ Discover each tool listed.
 
 Being able to understand the interest of each of them & choose the right tool
 
-
 ## "PHP Underestimated Awesomeness"
 
 A [curated list of amazingly awesome PHP libraries, resources and shiny things](https://github.com/ziadoz/awesome-php),  on Github.
@@ -50,6 +49,10 @@ A [curated list of amazingly awesome PHP libraries, resources and shiny things](
 ## Debug PHP
 
 - [Debugging with Xdebug and Sublime Text 3](http://www.sitepoint.com/debugging-xdebug-sublime-text-3)
+
+## Php Strangeness
+
+- [Servez-vous du typage faible de PHP!](http://www.thedarksideofthewebblog.com/servez-vous-du-typage-faible-de-php/)
 
 ## The wrong way
 
