@@ -8,9 +8,7 @@ Learn: Polypodes Self-training
 What will you learn today?
 --------------------------
 
-Learning resources for our beloved interns / junior / senior devs: 
-
-Front-end, back-end, persistence, UX, etc: this is our own [web literacy](https://wiki.mozilla.org/Webmaker/WebLiteracyMap) review.
+We want to create a culture of [Learning & Innovation](http://www.infoq.com/fr/articles/culture-learning-innovation): Here are our actual learning resources for our beloved interns / junior / senior devs: Front-end, back-end, architecture, persistence, UX, etc: this is our own [web literacy](https://wiki.mozilla.org/Webmaker/WebLiteracyMap) review.
 
 
 Intership Program
