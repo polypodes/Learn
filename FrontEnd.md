@@ -1,10 +1,10 @@
 # Front-End development
 
 
-## "Web As A Plateform":
+## "Web As A Plateform: Fundamentals":
 
 - http://docs.webplatform.org/
-
+- https://developers.google.com/web/fundamentals/
 
 ## CSS, the hard way
 
