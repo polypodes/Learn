@@ -14,7 +14,7 @@ We want to create a culture of [Learning & Innovation](http://www.infoq.com/fr/a
 Intership Program
 -----------------
 
-[new] A [dedicated Learning Program](Internship.md) is now proposed to internship candidates
+[new] A [dedicated Learning Program](Programs/Internship.md) is now proposed to internship candidates
 
 
 Fork it
