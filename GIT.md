@@ -7,7 +7,7 @@ GIT
 - [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model) (well-known Git workflow)
 - [Understanding GIT](http://www.queness.com/post/16139/understanding-git) (huge collection of GIT ressources)
 - [Pro GIT](http://www.git-scm.com/book) (covers everything, Git Branching chapter highly recommended)
-
+- [Git For Everyone](https://github.com/anotheruiguy/git-for-everyone)
 Then create a [Github](http://github.com) or/and a [Bitbucket](https://bitbucket.org) account
 
 ## Now git like a pro
