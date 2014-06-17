@@ -20,6 +20,7 @@ k/)
 
 ## Digest about Js
 
+- [La syntaxe de JS, chez Wikipédia](http://fr.wikipedia.org/wiki/Syntaxe_JavaScript)
 - [Les fonctions en JS](http://www.thedarksideofthewebblog.com/menu/javascript/les-fonctions-en-js/)
 - [la "POO" en Js](http://www.thedarksideofthewebblog.com/this-is-it-le-contexte-en-javascript/)
 
