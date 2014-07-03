@@ -16,7 +16,7 @@ k/)
 - [JavaScript: The Good Parts Book](http://oreilly.com/catalog/9780596517748/)
 - [Pour enfin comprendre Javascript](http://www.miximum.fr/pour-enfin-comprendre-javascript.html)
 * [A Huge collection of free books about JS](http://jsbooks.revolunet.com)
-
+* [Human Javascript](http://read.humanjavascript.com)
 
 ## Digest about Js
 
