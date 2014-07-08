@@ -14,3 +14,7 @@
 ## Writing good code
 
 - [From STUPID to SOLID Code](http://williamdurand.fr/2013/07/30/from-stupid-to-solid-code)
+
+## Best resources for learning iOS design and Xcode
+
+- [For designer and coders](http://designcode.io/learn)
