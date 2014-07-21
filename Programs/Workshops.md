@@ -2,7 +2,7 @@
 
 ## General coding & versionning
 
-* [Playing with Git hooks](http://appventus.com/blog/git-hooks-comment-sen-servir
+* [Playing with Git hooks](http://appventus.com/blog/git-hooks-comment-sen-servir)
 
 ## General PHP programming
 
