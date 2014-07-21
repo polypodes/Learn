@@ -11,10 +11,16 @@ What will you learn today?
 We want to create a culture of [Learning & Innovation](http://www.infoq.com/fr/articles/culture-learning-innovation): Here are our actual learning resources for our beloved interns / junior / senior devs: Front-end, back-end, architecture, persistence, UX, etc: this is our own [web literacy](https://wiki.mozilla.org/Webmaker/WebLiteracyMap) review.
 
 
+Workshops & Katas
+-----------------
+
+[new] A new [workshops Program](Programs/Workshops.md) is now proposed to the team.
+
+
 Intership Program
 -----------------
 
-[new] A [dedicated Learning Program](Programs/Internship.md) is now proposed to internship candidates
+A [dedicated Learning Program](Programs/Internship.md) is available for our internship candidates
 
 
 Fork it
