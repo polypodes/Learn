@@ -11,7 +11,7 @@
 * [php-cs](https://github.com/squizlabs/PHP_CodeSniffer) & [php-cs-fixer](https://github.com/fabpot/PHP-CS-Fixer) with IDE integration (Sublime / PhpStorm / Vim)
 * [PHP Quality with Scrutinizer](http://scrutinizer-ci.com)
 
-## Sf2 & related
+## Sf2 bundles to play with
 
 ### 'A' List:
 
