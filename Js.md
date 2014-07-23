@@ -56,6 +56,7 @@ k/)
 
 - [Yeoman](http://yeoman.io) - Project and modules generator
 - [Gulp](http://gulpjs.com) - Task runner/build system
+- [Building with Gulp](http://www.smashingmagazine.com/2014/06/11/building-with-gulp/)
 - [Getting started with Gulp](http://travismaynard.com/writing/getting-started-with-gulp)
 - [Gulp 5 minutes guide](http://www.bicrement.com/javascript/2013/12/30/learning-gulpjs.html#references)
 - [Grunt](http://gruntjs.com) - Task runner/build system
