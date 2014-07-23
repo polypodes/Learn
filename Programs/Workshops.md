@@ -2,7 +2,7 @@
 
 ## General coding & versionning
 
-* [Playing with Git hooks](http://appventus.com/blog/git-hooks-comment-sen-servir)
+* Playing with Git hooks: [therory](http://appventus.com/blog/git-hooks-comment-sen-servir) then [steps](http://tech.zumba.com/2014/04/14/control-code-quality/)
 
 ## General PHP programming
 
