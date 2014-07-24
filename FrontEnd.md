@@ -16,7 +16,7 @@
 - http://www.cs.unc.edu/~weiss/COMP110/CSStoJS.html CSS to JS properties
 - http://learn.shayhowe.com/advanced-html-css/performance-organization : How to organize CSS
 - http://coding.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/ : an introduction to OOCSS
-
+- [CSS Style Guide (Best Practices)](https://github.com/flexbox/CSS-Guidelines/blob/master/README.md)
 
 ## HTML, give me five
 
