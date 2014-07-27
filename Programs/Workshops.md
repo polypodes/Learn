@@ -11,6 +11,10 @@
 * [php-cs](https://github.com/squizlabs/PHP_CodeSniffer) & [php-cs-fixer](https://github.com/fabpot/PHP-CS-Fixer) with IDE integration (Sublime / PhpStorm / Vim)
 * [PHP Quality with Scrutinizer](http://scrutinizer-ci.com)
 
+## Drupal 8
+
+* [Install d8](https://www.drupal.org/project/drupal/git-instructions) + [create a d8 module](https://www.drupal.org/developing/modules/8)
+
 ## Sf2 bundles to play with
 
 ### 'A' List:
