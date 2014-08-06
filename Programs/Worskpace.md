@@ -5,3 +5,4 @@
 - [Installation d'un Terminal efficace : iTerm2](http://www.iterm2.com/#/section/downloads)
 - [Installation d'un IDE : SublimeText](http://www.iterm2.com/#/section/downloads)
 - [Installation d'un package manager : Homebrew](http://brew.sh/index_fr.html#install)
+- Installation de [PHP sur Mac OS X](http://www.terite.com/2013/09/16/mac-php-dev-setup.html) + conf Apache
