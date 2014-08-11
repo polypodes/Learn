@@ -51,6 +51,7 @@
 - [Symfony2 cheat sheet](http://www.symfony2cheatsheet.com)
 - [Les Bundles que vous allez regretter de ne pas avoir connu plus tôt](http://jolicode.github.io/best-bundle-conf)
 - [Sélection de livres pour maîtriser Symfony2 2](http://www.haimoura.fr/Blog/Selection-de-livres-pour-maitriser-Symfony-2)
+- [The 30 Most Useful Symfony Bundles](http://symfony.com/blog/the-30-most-useful-symfony-bundles-and-making-them-even-better) to hack with.
 
 ## Jobeet revival (sf2 versions)
 - [Sf2 jobeet](http://www.intelligentbee.com/blog/2013/08/07/symfony2-jobeet-day-1-starting-up-the-project/)
