@@ -52,6 +52,8 @@ k/)
 - [sergtitov / NodeJS-Learning](https://github.com/sergtitov/NodeJS-Learning/blob/master/README.md)
 - [how to write node programs with streams](https://github.com/substack/stream-handbook)
 - [How To Build A CLI Tool With Node.js And PhantomJS](http://coding.smashingmagazine.com/2014/02/12/build-cli-tool-nodejs-phantomjs/)
+- [So you want to learn NodeJs?](http://tdd.github.io/node-demo/#want-to-learn-node)
+
 
 ## Tooling
 
