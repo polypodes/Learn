@@ -8,6 +8,7 @@
 ## Certification Trainer
 
 - [Certification-CLI](https://github.com/certificationy/certificationy-cli)
+- [Symfony Certification Guide](https://github.com/jmolivas/symfony-certification-guide)
 
 ## Testing
 
