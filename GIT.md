@@ -1,7 +1,7 @@
 GIT
 ===
 
-- [Installation de GIT](http://git-scm.com/book/fr/D%C3%A9marrage-rapide-Installation-de-Git)
+- [Git isntallation (official)](http://git-scm.com/book/fr/D%C3%A9marrage-rapide-Installation-de-Git)
 - Roger Dudler's ["simple guide for getting started with git"](http://rogerdudler.github.com/git-guide). No deep shit.
 - [Gitimmersion. Best GIT tut ever - 50 steps](http://gitimmersion.com) (entire course)
 - [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model) (well-known Git workflow)
@@ -9,6 +9,7 @@ GIT
 - [Pro GIT](http://www.git-scm.com/book) (covers everything, Git Branching chapter highly recommended)
 - [Git For Everyone](https://github.com/anotheruiguy/git-for-everyone)
 Then create a [Github](http://github.com) or/and a [Bitbucket](https://bitbucket.org) account
+- [Git Tutorials](https://www.atlassian.com/git/) by Atlaassian (Bitbucket)
 
 ## Now git like a pro
 
