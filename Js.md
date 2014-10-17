@@ -29,6 +29,7 @@ k/)
 - [JavaScript Style Guide (Best Practices)](https://github.com/stephenplusplus/javascript-style): write maintainable JavaScript applications
 - [Understanding RequireJS for Effective JavaScript Module Loading](http://www.sitepoint.com/understanding-requirejs-for-effective-javascript-module-loading/?utm_content=buffer39326&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Understanding JavaScript Inheritance](https://alexsexton.com/blog/2013/04/understanding-javascript-inheritance/)
+- [some best practices for JS modules](https://github.com/mattdesl/module-best-practices)
 
 ## Promises
 
