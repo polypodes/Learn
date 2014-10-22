@@ -15,8 +15,9 @@ k/)
 - [JavaScript garden](http://bonsaiden.github.com/JavaScript-Garden/)
 - [JavaScript: The Good Parts Book](http://oreilly.com/catalog/9780596517748/)
 - [Pour enfin comprendre Javascript](http://www.miximum.fr/pour-enfin-comprendre-javascript.html)
-* [A Huge collection of free books about JS](http://jsbooks.revolunet.com)
-* [Human Javascript](http://read.humanjavascript.com)
+- [A Huge collection of free books about JS](http://jsbooks.revolunet.com)
+- [Human Javascript](http://read.humanjavascript.com)
+- [You don't know Js](https://github.com/getify/You-Dont-Know-JS)
 
 ## Digest about Js
 
@@ -30,6 +31,7 @@ k/)
 - [Understanding RequireJS for Effective JavaScript Module Loading](http://www.sitepoint.com/understanding-requirejs-for-effective-javascript-module-loading/?utm_content=buffer39326&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Understanding JavaScript Inheritance](https://alexsexton.com/blog/2013/04/understanding-javascript-inheritance/)
 - [some best practices for JS modules](https://github.com/mattdesl/module-best-practices)
+- [Javascript Generators](http://gajus.com/blog/2/the-definitive-guide-to-the-javascript-generators)
 
 ## Promises
 
