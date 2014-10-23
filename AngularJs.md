@@ -8,6 +8,12 @@
 - [Bite-sized web development training with AngularJS.](https://egghead.io/)
 - [Getting started with AngularJs 1.3](http://www.airpair.com/angularjs/posts/getting-started-with-angularjs-1.3)
 
+
+## Best Practices
+
+- [AngularJs Modularized Approach: Directory structure for shared directives](http://scotch.io/tutorials/javascript/angularjs-best-practices-directory-structure)
+
+
 ## Coding style
 
 - [An AngularJS Style Guide for Closure Users at Google](https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html)
