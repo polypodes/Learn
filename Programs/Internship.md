@@ -32,8 +32,8 @@ Please keep to the order of the instructions ; each step is to be studied entire
 2. [Composer](http://getcomposer.org): The entire "getting started" chapter. Check this [cheat sheet](http://composer.json.jolicode.com/)
 3. [Vagrant](http://vagrantup.com): The entire "getting started" chapter, because you don't want to use MAMP nor WAMP
 
-## Step 3 : Symfony, then Sonata
+## Step 3 : Symfony
 
 1. [The Symfony Book](http://symfony.com/doc/current/book/index.html)
-2. [Sonata bundles](http://sonata-project.org/bundles/)
+
 
