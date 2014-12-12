@@ -15,7 +15,7 @@ Do your homework.
 
 Please read the whole page.
 
-## a shorter version of the last 2 links: ["Best Practices for Modern PHP Development"](https://www.airpair.com/php/posts/best-practices-for-modern-php-development)
+A shorter version of the last 2 links: ["Best Practices for Modern PHP Development"](https://www.airpair.com/php/posts/best-practices-for-modern-php-development)
 
 ### In-depth related readings: 
 
