@@ -23,7 +23,7 @@ Please keep to the order of the instructions ; each step is to be studied entire
 
 ### Js (optional)
 
-1. ["Re-discover Javascript"](http://gitbookio.github.io/javascript) or [Une réintroduction à JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript/Une_r%C3%A9introduction_%C3%A0_JavaScript#Introduction-)
+1. ["Re-discover Javascript"](http://gitbookio.gitbooks.io/javascript/) or [Une réintroduction à JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript/Une_r%C3%A9introduction_%C3%A0_JavaScript#Introduction-)
 2. ["Js The-Right-Way"](http://jstherightway.org/)
 
 
