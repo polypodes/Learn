@@ -15,6 +15,7 @@ Please keep to the order of the instructions ; each step is to be studied entire
 
 1. ["Re-discovering PHP"](http://edu.williamdurand.fr/php-slides/index.html)
 2. ["PHP The Right Way"](http://www.phptherightway.com)
+3. ["Best Practices for Modern PHP Development"](https://www.airpair.com/php/posts/best-practices-for-modern-php-development)
 
 ### SQL
 
