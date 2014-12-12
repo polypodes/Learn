@@ -29,7 +29,7 @@ Please keep to the order of the instructions ; each step is to be studied entire
 
 ## Step 2 : Tooling
 
-1. [PhpUnit manual](http://phpunit.de/manuel): Read the 4 first chapters
+1. [PhpUnit manual](https://phpunit.de/manual/current/en/phpunit-book.html): Read the 5 first chapters
 2. [Composer](http://getcomposer.org): The entire "getting started" chapter. Check this [cheat sheet](http://composer.json.jolicode.com/)
 3. [Vagrant](http://vagrantup.com): The entire "getting started" chapter, because you don't want to use MAMP nor WAMP
 
