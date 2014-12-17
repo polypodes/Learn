@@ -14,7 +14,7 @@ We want to create a culture of [Learning & Innovation](http://www.infoq.com/fr/a
 Workshops & Katas
 -----------------
 
-[new] A new [workshops Program](Programs/Workshops.md) is now proposed to the team.
+A [workshops Program](Programs/Workshops.md) is now proposed to the team.
 
 
 Intership Program
@@ -22,6 +22,7 @@ Intership Program
 
 A [dedicated Learning Program](Programs/Internship.md) is available for our internship candidates
 
+[fr] Pour les élèves de 3ème, voici notre programme de [stage niveau Collège](Programs/College.md)
 
 Fork it
 -------
