@@ -16,5 +16,6 @@
 
 ## Coding style
 
+- [Todd Motto's](https://github.com/toddmotto/angularjs-styleguide) or [John Papa's](https://github.com/johnpapa/angularjs-styleguide) style guide
 - [An AngularJS Style Guide for Closure Users at Google](https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html)
 - [Opinionated AngularJS styleguide for teams](http://toddmotto.com/opinionated-angular-js-styleguide-for-teams/)
