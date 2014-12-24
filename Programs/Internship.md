@@ -4,7 +4,7 @@ Please keep to the order of the instructions ; each step is to be studied entire
 
 ## Step 0 : Background
 
-0. [What It Really Takes to be a Professional Programmer](http://lifehacker.com/what-it-really-takes-to-be-a-professional-programmer-1674327537)
+[What It Really Takes to be a Professional Programmer](http://lifehacker.com/what-it-really-takes-to-be-a-professional-programmer-1674327537)
 
 ## Step 1 : Basics
 
