@@ -16,7 +16,8 @@ Please keep to the order of the instructions ; each step is to be studied entire
 
 ### Step 2 : Modern PHP
 
-1. ["Best Practices for Modern PHP Development"](https://www.airpair.com/php/posts/best-practices-for-modern-php-development) ou son équivalent en français : [STUPID vs SOLID](http://afsy.fr/avent/2013/02-principes-stupid-solid-poo)
+1. [PHP crash course](http://www.codecademy.com/fr/tracks/php) by [CodeCademy](http://www.codecademy.com)
+2. ["Best Practices for Modern PHP Development"](https://www.airpair.com/php/posts/best-practices-for-modern-php-development) ou son équivalent en français : [STUPID vs SOLID](http://afsy.fr/avent/2013/02-principes-stupid-solid-poo)
 
 ## Step 3 : Symfony
 
