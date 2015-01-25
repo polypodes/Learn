@@ -1,4 +1,4 @@
-# Backend-Developer Intership @ Les Polypodes
+# Web Developer Intership @ Les Polypodes
 
 Please keep to the order of the instructions ; each step is to be studied entirely. 
 
