@@ -18,10 +18,11 @@ Please keep to the order of the instructions ; each step is to be studied entire
 
 1. [PHP crash course](http://www.codecademy.com/fr/tracks/php) by [CodeCademy](http://www.codecademy.com)
 2. ["Best Practices for Modern PHP Development"](https://www.airpair.com/php/posts/best-practices-for-modern-php-development) ou son équivalent en français : [STUPID vs SOLID](http://afsy.fr/avent/2013/02-principes-stupid-solid-poo)
+3. (pour la culture) ["PHP The Right Way"](http://www.phptherightway.com)
 
 ## Step 3 : Symfony
 
-1. [The Symfony Book](http://symfony.com/doc/current/book/index.html)
+1. [The Symfony Book](http://symfony.com/doc/current/book/index.html) en entier, et avec application
 
 ### Js (optional)
 
@@ -31,7 +32,6 @@ Please keep to the order of the instructions ; each step is to be studied entire
 ## Going further
 
 1. ["Re-discovering PHP"](http://edu.williamdurand.fr/php-slides/index.html)
-2. ["PHP The Right Way"](http://www.phptherightway.com)
 3. [PhpUnit manual](https://phpunit.de/manual/current/en/phpunit-book.html): Read the 5 first chapters
 4. [Composer](http://getcomposer.org): The entire "getting started" chapter. Check this [cheat sheet](http://composer.json.jolicode.com/)
 5. [Vagrant](http://vagrantup.com): The entire "getting started" chapter, because you don't want to use MAMP nor WAMP
