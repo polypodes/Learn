@@ -8,7 +8,6 @@
 - [Eloquent JavaScript](http://eloquentjavascript.net/) for beginners
 - [A reintroduction to javaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript/Une_r%C3%A9introduction_%C3%A0_JavaScript)
 - [How to Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly)
-k/)
 - [Advanced JavaScript Fundamentals](http://blog.buymeasoda.com/advanced-javascript-fundamentals/)
 - [Understand JavaScript Closures With Ease](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
 - [JS The Right Way](http://jstherightway.org//)
