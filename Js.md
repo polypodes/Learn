@@ -46,8 +46,7 @@ Pour aller plus loin :
 - [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](http://addyosmani.com/writing-modular-js/) by Addy Osmani
 - [Why AMD](http://requirejs.org/docs/whyamd.html) présentation et défense du modèle AMD
 - [some best practices for JS modules](https://github.com/mattdesl/module-best-practices) in a sharing perspective
-- [cujojs](http://know.cujojs.com/tutorials/modules/authoring-amd-modules) Authoring AMD Modules
-
+- [Authoring AMD Modules](http://know.cujojs.com/tutorials/modules/authoring-amd-modules) 
 - [Javascript Generators](http://gajus.com/blog/2/the-definitive-guide-to-the-javascript-generators)
 
 ## Promises
