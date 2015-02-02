@@ -32,7 +32,7 @@
 - [(Miximum) "Pour enfin comprendre Javascript"](http://www.miximum.fr/pour-enfin-comprendre-javascript.html#rappel-sur-les-classes) : chapitre "Rappel sur les classes" (qui n'existent pas en Js) et suivants
 - [`this`, le contexte en Javascript](http://www.thedarksideofthewebblog.com/this-is-it-le-contexte-en-javascript/)
 
-## Writing nice Js Modules (finally!)
+## Writing your own Js modules (finally!)
 - [Why web modules?](http://requirejs.org/docs/why.html) about Js modules calls
 - [The Js Module Pattern](https://carldanley.com/js-module-pattern/)
 - [The Js Revealing Module Pattern](https://carldanley.com/js-revealing-module-pattern/)
