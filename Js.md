@@ -25,12 +25,25 @@ k/)
 - [Les fonctions en JS](http://www.thedarksideofthewebblog.com/menu/javascript/les-fonctions-en-js/)
 - [la "POO" en Js](http://www.thedarksideofthewebblog.com/this-is-it-le-contexte-en-javascript/)
 
-## Organizing your Js code (injeritance, requireJs, etc.)
+## Who to write your Js code (inheritance, requireJs, etc.)
 
 - [JavaScript Style Guide (Best Practices)](https://github.com/stephenplusplus/javascript-style): write maintainable JavaScript applications
-- [Understanding RequireJS for Effective JavaScript Module Loading](http://www.sitepoint.com/understanding-requirejs-for-effective-javascript-module-loading/?utm_content=buffer39326&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Understanding JavaScript Inheritance](https://alexsexton.com/blog/2013/04/understanding-javascript-inheritance/)
-- [some best practices for JS modules](https://github.com/mattdesl/module-best-practices)
+
+## Modularizing your JS code
+- [Why web modules?](http://requirejs.org/docs/why.html) about Js modules calls
+- [The Js Module Pattern](https://carldanley.com/js-module-pattern/)
+- [The Js Revealing Module Pattern](https://carldanley.com/js-revealing-module-pattern/)
+- [Understanding RequireJS for Effective JavaScript Module Loading](http://www.sitepoint.com/understanding-requirejs-for-effective-javascript-module-loading)
+
+...and then, tada! Browserify!!
+
+- [Getting Started With Browserify](http://www.sitepoint.com/getting-started-browserify): Node.js style modules in the browser
+
+Pour aller plus loin : 
+- [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](http://addyosmani.com/writing-modular-js/) by Addy Osmani
+- [Why AMD](http://requirejs.org/docs/whyamd.html) présentation et défense du modèle AMD
+- [some best practices for JS modules](https://github.com/mattdesl/module-best-practices) in a sharing perspective
 - [Javascript Generators](http://gajus.com/blog/2/the-definitive-guide-to-the-javascript-generators)
 
 ## Promises
