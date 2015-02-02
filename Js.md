@@ -28,6 +28,9 @@
 
 - [JavaScript Style Guide (Best Practices)](https://github.com/stephenplusplus/javascript-style): write maintainable JavaScript applications
 - [Understanding JavaScript Inheritance](https://alexsexton.com/blog/2013/04/understanding-javascript-inheritance/)
+- [(MDN) "Une réintroduction à JavaScript"](https://developer.mozilla.org/fr/docs/Web/JavaScript/Une_r%C3%A9introduction_%C3%A0_JavaScript#Les_objets_2) : Les chapitre "Les objets" et suivants
+- [(Miximum) "Pour enfin comprendre Javascript"](http://www.miximum.fr/pour-enfin-comprendre-javascript.html#rappel-sur-les-classes) : chapitre "Rappel sur les classes" (qui n'existent pas en Js) et suivants
+- [`this`, le contexte en Javascript](http://www.thedarksideofthewebblog.com/this-is-it-le-contexte-en-javascript/)
 
 ## Modularizing your JS code
 - [Why web modules?](http://requirejs.org/docs/why.html) about Js modules calls
