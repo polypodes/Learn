@@ -24,7 +24,7 @@
 - [Les fonctions en JS](http://www.thedarksideofthewebblog.com/menu/javascript/les-fonctions-en-js/)
 - [la "POO" en Js](http://www.thedarksideofthewebblog.com/this-is-it-le-contexte-en-javascript/)
 
-## Who to write your Js code (inheritance, requireJs, etc.)
+## Who to write your Js code (Objects, Prototypes, `this`, etc.)
 
 - [JavaScript Style Guide (Best Practices)](https://github.com/stephenplusplus/javascript-style): write maintainable JavaScript applications
 - [Understanding JavaScript Inheritance](https://alexsexton.com/blog/2013/04/understanding-javascript-inheritance/)
@@ -32,7 +32,7 @@
 - [(Miximum) "Pour enfin comprendre Javascript"](http://www.miximum.fr/pour-enfin-comprendre-javascript.html#rappel-sur-les-classes) : chapitre "Rappel sur les classes" (qui n'existent pas en Js) et suivants
 - [`this`, le contexte en Javascript](http://www.thedarksideofthewebblog.com/this-is-it-le-contexte-en-javascript/)
 
-## Modularizing your JS code
+## Writing nice Js Modules (finally!)
 - [Why web modules?](http://requirejs.org/docs/why.html) about Js modules calls
 - [The Js Module Pattern](https://carldanley.com/js-module-pattern/)
 - [The Js Revealing Module Pattern](https://carldanley.com/js-revealing-module-pattern/)
