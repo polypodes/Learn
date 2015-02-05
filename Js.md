@@ -101,3 +101,6 @@ Pour aller plus loin :
 ## Js templating and more
 
 - [Ractive](http://learn.ractivejs.org/hello-world/1/) : Fun, 60 seconds to get running.
+- 
+## JS libs
+- [Apprendre MeteorJS] (http://mquandalle.gitbooks.io/apprendre-meteor/)
