@@ -18,3 +18,7 @@
 ## Best resources for learning iOS design and Xcode
 
 - [For designer and coders](http://designcode.io/learn)
+
+## Liste de ressources en Français
+
+- [Livres gratuits sur la programmation] (http://resrc.io/list/33/livres-gratuits-sur-la-programmation/)
