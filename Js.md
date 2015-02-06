@@ -63,7 +63,12 @@ Pour aller plus loin :
 - [Essential JavaScript Design Patterns For Beginners](http://www.addyosmani.com/resources/essentialjsdesignpatterns)
 - [JavaScript Patterns Book](http://oreilly.com/catalog/9780596806767)
 - [Les patterns en Js](http://www.thedarksideofthewebblog.com/menu/javascript/les-patterns-de-js/)
- 
+
+## Js Architecture
+
+- [Scalable JavaScript Application Architecture ](http://fr.slideshare.net/nzakas/scalable-javascript-application-architecture-2012?related=1)
+- [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/)
+
 ## NodeJs
 
 - http://nodejs.org
