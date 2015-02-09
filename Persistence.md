@@ -13,3 +13,4 @@ Postgresql
 ----------
 
 * [learning postgres with excercises](http://pgexercises.com) 
+* [Install PostgreSql on OS X](http://postgresapp.com/)
