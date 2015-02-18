@@ -9,6 +9,7 @@
 
 - [Certification-CLI](https://github.com/certificationy/certificationy-cli)
 - [Symfony Certification Guide](https://github.com/jmolivas/symfony-certification-guide)
+- [Symfony Certification Learning Program](https://trello.com/c/aHnP3WUI/1-learn-for-symfony-certification)
 
 ## Testing
 
