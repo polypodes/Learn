@@ -7,6 +7,7 @@ SQL
 ---
 
 - [Online SQL course](http://www.sqlcourse.com/) or [sqlcourse2](http://www.sqlcourse2.com/) or [sql.sh](http://sql.sh/)
+- [sqlTeaching](http://www.sqlteaching.com)
 - [SQL Zoo](http://sqlzoo.net/)
 
 Postgresql
