@@ -34,8 +34,10 @@
 
 ## Writing your own Js modules (finally!)
 - [Why web modules?](http://requirejs.org/docs/why.html) about Js modules calls
+- [Mastering the Module Pattern](http://toddmotto.com/mastering-the-module-pattern/)
 - [The Js Module Pattern](https://carldanley.com/js-module-pattern/)
 - [The Js Revealing Module Pattern](https://carldanley.com/js-revealing-module-pattern/)
+- [JavaScript design pattern: difference between module pattern and revealing module pattern](http://stackoverflow.com/questions/22906662/javascript-design-pattern-difference-between-module-pattern-and-revealing-modul)
 - [Understanding RequireJS for Effective JavaScript Module Loading](http://www.sitepoint.com/understanding-requirejs-for-effective-javascript-module-loading)
 
 ...and then, tada! Browserify!!
