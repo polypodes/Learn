@@ -18,7 +18,8 @@ Please keep to the order of the instructions ; each step is to be studied entire
 
 1. [PHP crash course](http://www.codecademy.com/fr/tracks/php) by [CodeCademy](http://www.codecademy.com)
 2. ["Best Practices for Modern PHP Development"](https://www.airpair.com/php/posts/best-practices-for-modern-php-development) ou son équivalent en français : [STUPID vs SOLID](http://afsy.fr/avent/2013/02-principes-stupid-solid-poo)
-3. (pour la culture) ["PHP The Right Way"](http://www.phptherightway.com)
+3. [Comprendre SOLID](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+4. (pour la culture) ["PHP The Right Way"](http://www.phptherightway.com)
 
 ## Step 3 : Symfony
 
