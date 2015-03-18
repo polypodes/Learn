@@ -17,6 +17,10 @@ Please read the whole page.
 
 A shorter version of the last 2 links: ["Best Practices for Modern PHP Development"](https://www.airpair.com/php/posts/best-practices-for-modern-php-development)
 
+## SOLID PHP
+
+Please understand this : [First 5 Principles of Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+
 ### In-depth related readings: 
 
 - [PhpUnit manual](https://phpunit.de/manual/current/en/phpunit-book.html): Read the 5 first chapters
