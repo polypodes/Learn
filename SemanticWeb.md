@@ -1,5 +1,8 @@
 # Semantic Web
 
+## Introductions générales
+
+- [Semantic Web, Linked, Open Data](http://pagesperso.lina.univ-nantes.fr/~skaf-h/pmwiki/uploads/Main/LOD-Hala-DataLab13-05-2014.pdf), Atelier Web Sémantique, Cantine Numérique, Nantes 13-05-2014
 
 ## Cours
 
