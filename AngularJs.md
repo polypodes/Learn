@@ -7,7 +7,7 @@
 - [Video Tutorial: AngularJS Fundamentals in 60-ish Minutes](http://weblogs.asp.net/dwahlin/archive/2013/04/12/video-tutorial-angularjs-fundamentals-in-60-ish-minutes.aspx)
 - [Bite-sized web development training with AngularJS.](https://egghead.io/)
 - [Getting started with AngularJs 1.3](http://www.airpair.com/angularjs/posts/getting-started-with-angularjs-1.3)
-
+- [Angular CheatSheet](https://dncmagazine.blob.core.windows.net/downloads/AngularCheatSheet-DNCMagazine.pdf)
 
 ## Best Practices
 
