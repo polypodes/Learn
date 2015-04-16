@@ -56,6 +56,10 @@ A [curated list of amazingly awesome PHP libraries, resources and shiny things](
 
 - [Debugging with Xdebug and Sublime Text 3](http://www.sitepoint.com/debugging-xdebug-sublime-text-3)
 
+## PHP Testing Frameworks articles
+
+- [Getting Started w/ PHPUnit](http://www.startutorial.com/articles/view/phpunit-beginner-part-1-get-started)
+
 ## Php Strangeness
 
 - [Servez-vous du typage faible de PHP!](http://www.thedarksideofthewebblog.com/servez-vous-du-typage-faible-de-php/)
