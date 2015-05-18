@@ -8,6 +8,7 @@
 - [Bite-sized web development training with AngularJS.](https://egghead.io/)
 - [Getting started with AngularJs 1.3](http://www.airpair.com/angularjs/posts/getting-started-with-angularjs-1.3)
 - [Angular CheatSheet](https://dncmagazine.blob.core.windows.net/downloads/AngularCheatSheet-DNCMagazine.pdf)
+- The [AngularJs book](http://www.angularjsbook.com/)
 
 ## Best Practices
 
