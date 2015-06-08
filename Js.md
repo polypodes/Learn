@@ -24,6 +24,10 @@
 - [Les fonctions en JS](http://www.thedarksideofthewebblog.com/menu/javascript/les-fonctions-en-js/)
 - [la "POO" en Js](http://www.thedarksideofthewebblog.com/this-is-it-le-contexte-en-javascript/)
 
+## ES6
+
+- [ES6 features overview](https://github.com/lukehoban/es6features)
+
 ## Who to write your Js code (Objects, Prototypes, `this`, etc.)
 
 - [JavaScript Style Guide (Best Practices)](https://github.com/stephenplusplus/javascript-style): write maintainable JavaScript applications
