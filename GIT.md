@@ -17,6 +17,7 @@ Then create a [Github](http://github.com) or/and a [Bitbucket](https://bitbucket
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet): A collection of cool hidden and not so hidden features of Git and GitHub
 - [How to Deal with Merge Conflicts in Git](http://css-tricks.com/deal-merge-conflicts-git/)
 - [Git Tips You Probably Didn't Know](http://nigelb.me/2014-04-26-git-tips-you-probably-did-not-know.html)
+- [Undoing things like a pro](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 
 ## Git lessons
 
