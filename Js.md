@@ -99,7 +99,7 @@ Pour aller plus loin :
 
 ## Interfaces
 
-- [React js: learn the basics the right way](http://webdesignporto.com/react-js-learn-the-basics-the-right-way-knowledge-after-real-world-project-experience/)
+- [Built with React](http://buildwithreact.com/)
 
 ## Js BDD
 
