@@ -18,7 +18,7 @@ Then create a [Github](http://github.com) or/and a [Bitbucket](https://bitbucket
 - [How to Deal with Merge Conflicts in Git](http://css-tricks.com/deal-merge-conflicts-git/)
 - [Git Tips You Probably Didn't Know](http://nigelb.me/2014-04-26-git-tips-you-probably-did-not-know.html)
 - [Undoing things like a pro](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
-- [merging and rebasing like a pro](http://blog.mwaysolutions.com/2015/07/23/git-merge-and-rebase-part-2-of-3/)
+- [Merging and rebasing like a pro](http://blog.mwaysolutions.com/2015/07/23/git-merge-and-rebase-part-2-of-3/)
 
 ## Git lessons
 
